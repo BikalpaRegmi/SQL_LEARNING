@@ -1,3 +1,5 @@
+--------------- Date functions -----------------
+
 SELECT * FROM sakila.payment;
 
 ---Results the date of each value of column.

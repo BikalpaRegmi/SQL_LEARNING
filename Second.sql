@@ -1,3 +1,5 @@
+---------------- String Functions ----------------
+
 ---creates a new column with column names where all Full name alphabets are capital.
 select *,  upper(`Full Name`) as names from first.esdcsv;
 

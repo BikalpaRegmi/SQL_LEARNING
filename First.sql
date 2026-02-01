@@ -1,3 +1,5 @@
+----------------------- Select, Where , And, Or, Not, Like, Order By -------------------------
+
 ---Displays everything from table.
 select * from first.esdcsv ;
 

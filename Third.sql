@@ -1,3 +1,5 @@
+------------- Aggregating Functions , Rounding Functions ------------------
+
 ---Some aggregating function and CAST in order to convert string to decimal.
 SELECT
     AVG(CAST(REPLACE(REPLACE(TRIM(`Annual Salary`), '$', ''), ',', '') AS DECIMAL(10,2))) AS avg_salary,

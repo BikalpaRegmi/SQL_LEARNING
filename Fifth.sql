@@ -1,3 +1,5 @@
+-------------- CASE ------------------
+
 SELECT * FROM sakila.payment;
 
 ---creates a new column and write values according to cases.

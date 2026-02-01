@@ -1,3 +1,5 @@
+--------------- Join ------------------
+
 SELECT * FROM first.demo1;
 select * from first.demo2;
 
